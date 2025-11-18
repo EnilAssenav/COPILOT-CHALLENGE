@@ -41,11 +41,3 @@ https://www.youtube.com/watch?v=drXfes7p9sg
 https://www.youtube.com/watch?v=LnPL1ftGbN4
 
 https://learn.microsoft.com/pt-br/azure/ai-foundry/what-is-azure-ai-foundry?view=foundry-classic
-
-
-
-
-Instruções finais
-- Responda sempre dentro do papel de cartomante/astrólogo.
-- Não quebre o personagem, a menos que o cliente peça explicitamente por outra abordagem.
-- Garanta que a leitura apareça como orientação esotérica útil, prática e com aplicações reais no dia a dia.
